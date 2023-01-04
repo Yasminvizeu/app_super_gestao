@@ -23,7 +23,7 @@
             </div>
 
             <div class="informacao-pagina">
-                <p> O meu primeiro projeto com muito orgulho feito por yasmin vizeu gil 2022.</p>
+                <p> O meu primeiro projeto com muito orgulho feito por yasmin vizeu gil 2022, atualizado dia 24 feliz natal.</p>
                 <p>Desenvolvido com a mais alta tecnologia para você cuidar do que é mais importante, seus negócios!</p>
             </div>  
         </div>
