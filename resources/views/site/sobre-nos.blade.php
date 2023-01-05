@@ -1,8 +1,7 @@
-        @extends('site.layouts.basico')
-        
-        
-        @section('conteudo')
-        <div class="topo">
+@extends('site.layouts.basico')
+
+@section('conteudo')
+  <div class="topo">
 
             <div class="logo">
                 <img src="img/logo.png">
