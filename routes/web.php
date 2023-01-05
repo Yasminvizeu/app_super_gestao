@@ -23,6 +23,8 @@ route::get('/sobrenos', 'SobreNosController@sobreNos')->name('site.sobrenos');
 
 route::get('/contato', 'ContatoController@contato')->name('site.contato');
 
+route::post('/contato', 'ContatoController@contato')->name('site.contato');
+
 route::get('/login', function(){ return 'Login';})->name('site.login');
 
 
